@@ -1,0 +1,27 @@
+# Compilação
+target/
+build/
+out/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Segredos e ambiente (NUNCA enviar para o GitHub)
+.env
+*.pem
+*.key
+application-local.properties
+
+# Logs
+*.log
+HELP.md
